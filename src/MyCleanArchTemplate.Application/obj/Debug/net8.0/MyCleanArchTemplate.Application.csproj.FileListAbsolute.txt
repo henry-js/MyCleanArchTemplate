@@ -1,0 +1,15 @@
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Application\bin\Debug\net8.0\MyCleanArchTemplate.Application.deps.json
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Application\bin\Debug\net8.0\MyCleanArchTemplate.Application.dll
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Application\bin\Debug\net8.0\MyCleanArchTemplate.Application.pdb
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Application\bin\Debug\net8.0\MyCleanArchTemplate.Core.dll
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Application\bin\Debug\net8.0\MyCleanArchTemplate.Core.pdb
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Application\obj\Debug\net8.0\MyCleanArchTemplate.Application.csproj.AssemblyReference.cache
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Application\obj\Debug\net8.0\MyCleanArchTemplate.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Application\obj\Debug\net8.0\MyCleanArchTemplate.Application.AssemblyInfoInputs.cache
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Application\obj\Debug\net8.0\MyCleanArchTemplate.Application.AssemblyInfo.cs
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Application\obj\Debug\net8.0\MyCleanArchTemplate.Application.csproj.CoreCompileInputs.cache
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Application\obj\Debug\net8.0\MyCleanArchTemplate.Application.csproj.CopyComplete
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Application\obj\Debug\net8.0\MyCleanArchTemplate.Application.dll
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Application\obj\Debug\net8.0\refint\MyCleanArchTemplate.Application.dll
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Application\obj\Debug\net8.0\MyCleanArchTemplate.Application.pdb
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Application\obj\Debug\net8.0\ref\MyCleanArchTemplate.Application.dll

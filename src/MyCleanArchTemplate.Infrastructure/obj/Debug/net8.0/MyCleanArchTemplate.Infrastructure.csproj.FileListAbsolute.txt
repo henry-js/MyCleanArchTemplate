@@ -1,0 +1,17 @@
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Infrastructure\bin\Debug\net8.0\MyCleanArchTemplate.Infrastructure.deps.json
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Infrastructure\bin\Debug\net8.0\MyCleanArchTemplate.Infrastructure.dll
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Infrastructure\bin\Debug\net8.0\MyCleanArchTemplate.Infrastructure.pdb
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Infrastructure\bin\Debug\net8.0\MyCleanArchTemplate.Application.dll
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Infrastructure\bin\Debug\net8.0\MyCleanArchTemplate.Core.dll
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Infrastructure\bin\Debug\net8.0\MyCleanArchTemplate.Application.pdb
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Infrastructure\bin\Debug\net8.0\MyCleanArchTemplate.Core.pdb
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Infrastructure\obj\Debug\net8.0\MyCleanArchTemplate.Infrastructure.csproj.AssemblyReference.cache
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Infrastructure\obj\Debug\net8.0\MyCleanArchTemplate.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Infrastructure\obj\Debug\net8.0\MyCleanArchTemplate.Infrastructure.AssemblyInfoInputs.cache
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Infrastructure\obj\Debug\net8.0\MyCleanArchTemplate.Infrastructure.AssemblyInfo.cs
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Infrastructure\obj\Debug\net8.0\MyCleanArchTemplate.Infrastructure.csproj.CoreCompileInputs.cache
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Infrastructure\obj\Debug\net8.0\MyCleanArchTemplate.Infrastructure.csproj.CopyComplete
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Infrastructure\obj\Debug\net8.0\MyCleanArchTemplate.Infrastructure.dll
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Infrastructure\obj\Debug\net8.0\refint\MyCleanArchTemplate.Infrastructure.dll
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Infrastructure\obj\Debug\net8.0\MyCleanArchTemplate.Infrastructure.pdb
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\MyCleanArchTemplate.Infrastructure\obj\Debug\net8.0\ref\MyCleanArchTemplate.Infrastructure.dll

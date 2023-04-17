@@ -1,0 +1,12 @@
+<ArchitectureGraph>
+  <Module Identifier="C51FF43E-5629-48A7-9A1D-B23F7D2488D7" Name="WeatherForecastsClean.Core" />
+  <Module Identifier="C335B086-4F56-4D86-AA66-A048DBEE659D" Name="WeatherForecastsClean.Application" />
+  <Module Identifier="5108D500-39BB-463D-A372-9164AEC3983D" Name="WeatherForecastsClean.Infrastructure" />
+  <Module Identifier="303DDBD8-5DFF-4DD3-BA3D-A122C16E9465" Name="WeatherForecastsClean.Api" />
+  <Reference Identifier="C335B086-4F56-4D86-AA66-A048DBEE659D/r:WeatherForecastsClean.Core" SourceId="C335B086-4F56-4D86-AA66-A048DBEE659D" Name="WeatherForecastsClean.Core" TargetId="C51FF43E-5629-48A7-9A1D-B23F7D2488D7" />
+  <Reference Identifier="5108D500-39BB-463D-A372-9164AEC3983D/r:WeatherForecastsClean.Application" SourceId="5108D500-39BB-463D-A372-9164AEC3983D" Name="WeatherForecastsClean.Application" TargetId="C335B086-4F56-4D86-AA66-A048DBEE659D" />
+  <Reference Identifier="5108D500-39BB-463D-A372-9164AEC3983D/r:WeatherForecastsClean.Core" SourceId="5108D500-39BB-463D-A372-9164AEC3983D" Name="WeatherForecastsClean.Core" TargetId="C51FF43E-5629-48A7-9A1D-B23F7D2488D7" />
+  <Reference Identifier="303DDBD8-5DFF-4DD3-BA3D-A122C16E9465/r:WeatherForecastsClean.Application" SourceId="303DDBD8-5DFF-4DD3-BA3D-A122C16E9465" Name="WeatherForecastsClean.Application" TargetId="C335B086-4F56-4D86-AA66-A048DBEE659D" />
+  <Reference Identifier="303DDBD8-5DFF-4DD3-BA3D-A122C16E9465/r:WeatherForecastsClean.Infrastructure" SourceId="303DDBD8-5DFF-4DD3-BA3D-A122C16E9465" Name="WeatherForecastsClean.Infrastructure" TargetId="5108D500-39BB-463D-A372-9164AEC3983D" />
+  <Reference Identifier="303DDBD8-5DFF-4DD3-BA3D-A122C16E9465/r:WeatherForecastsClean.Core" SourceId="303DDBD8-5DFF-4DD3-BA3D-A122C16E9465" Name="WeatherForecastsClean.Core" TargetId="C51FF43E-5629-48A7-9A1D-B23F7D2488D7" />
+</ArchitectureGraph>

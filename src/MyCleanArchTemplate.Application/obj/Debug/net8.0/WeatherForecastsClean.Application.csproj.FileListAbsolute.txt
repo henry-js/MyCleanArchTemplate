@@ -1,0 +1,15 @@
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\WeatherForecastsClean.Application\bin\Debug\net8.0\WeatherForecastsClean.Application.deps.json
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\WeatherForecastsClean.Application\bin\Debug\net8.0\WeatherForecastsClean.Application.dll
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\WeatherForecastsClean.Application\bin\Debug\net8.0\WeatherForecastsClean.Application.pdb
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\WeatherForecastsClean.Application\bin\Debug\net8.0\WeatherForecastsClean.Core.dll
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\WeatherForecastsClean.Application\bin\Debug\net8.0\WeatherForecastsClean.Core.pdb
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\WeatherForecastsClean.Application\obj\Debug\net8.0\WeatherForecastsClean.Application.csproj.AssemblyReference.cache
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\WeatherForecastsClean.Application\obj\Debug\net8.0\WeatherForecastsClean.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\WeatherForecastsClean.Application\obj\Debug\net8.0\WeatherForecastsClean.Application.AssemblyInfoInputs.cache
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\WeatherForecastsClean.Application\obj\Debug\net8.0\WeatherForecastsClean.Application.AssemblyInfo.cs
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\WeatherForecastsClean.Application\obj\Debug\net8.0\WeatherForecastsClean.Application.csproj.CoreCompileInputs.cache
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\WeatherForecastsClean.Application\obj\Debug\net8.0\WeatherForecastsClean.Application.csproj.CopyComplete
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\WeatherForecastsClean.Application\obj\Debug\net8.0\WeatherForecastsClean.Application.dll
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\WeatherForecastsClean.Application\obj\Debug\net8.0\refint\WeatherForecastsClean.Application.dll
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\WeatherForecastsClean.Application\obj\Debug\net8.0\WeatherForecastsClean.Application.pdb
+D:\repos\Learning\CleanArchitecure_CodeWrinkles\WeatherForecastsClean\src\WeatherForecastsClean.Application\obj\Debug\net8.0\ref\WeatherForecastsClean.Application.dll

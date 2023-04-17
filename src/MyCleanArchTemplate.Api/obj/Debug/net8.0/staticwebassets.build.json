@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uYAh5osd3HUJPfi0jK0HiCo6KXJjMRdU8fomCrCk8o0=",
+  "Source": "MyCleanArchTemplate.Api",
+  "BasePath": "_content/MyCleanArchTemplate.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

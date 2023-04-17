@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WeatherForecastsClean.Infrastructure/1.0.0": {
+        "dependencies": {
+          "WeatherForecastsClean.Application": "1.0.0",
+          "WeatherForecastsClean.Core": "1.0.0"
+        },
+        "runtime": {
+          "WeatherForecastsClean.Infrastructure.dll": {}
+        }
+      },
+      "WeatherForecastsClean.Application/1.0.0": {
+        "dependencies": {
+          "WeatherForecastsClean.Core": "1.0.0"
+        },
+        "runtime": {
+          "WeatherForecastsClean.Application.dll": {}
+        }
+      },
+      "WeatherForecastsClean.Core/1.0.0": {
+        "runtime": {
+          "WeatherForecastsClean.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherForecastsClean.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherForecastsClean.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherForecastsClean.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
